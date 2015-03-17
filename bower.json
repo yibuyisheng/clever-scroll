@@ -1,0 +1,20 @@
+{
+  "name": "clever-scroll",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yibuyisheng/clever-scroll",
+  "authors": [
+    "yibuyisheng <yibuyisheng@163.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "web-ui": "yibuyisheng/web-ui"
+  }
+}
